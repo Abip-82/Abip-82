@@ -2,7 +2,7 @@
 
 BSc CSIT student interested in **Web Application Security, Backend Development, and Security Research**.
 
-- 🔎 ~10 accepted security vulnerability reports across various platforms
+- 🔎 ~15 accepted security vulnerability reports across various platforms
 - 🏆 National Capture The Flag (CTF) Competition Winner
 - 🐍 Building applications and security projects with Python and Flask
 - 🛠️ Exploring application security, vulnerability research, and web development
