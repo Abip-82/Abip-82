@@ -6,6 +6,7 @@ BSc CSIT student interested in **Web Application Security, Backend Development, 
 - 🏆 National Capture The Flag (CTF) Competition Winner
 - 🐍 Building applications and security projects with Python and Flask
 - 🛠️ Exploring application security, vulnerability research, and web development
+- 🛡️ Familiarity with security tools like burp suite, nmap, wireshark and many more.
 
 I enjoy understanding how applications work, finding weaknesses, and building solutions that make them better.
 
